@@ -13,7 +13,7 @@
 <!-- BANNER -->
 
 <div align="center">
-  <img src="assets/img1%20(2).jpg" alt="Luis Felipe Banner" width="60%" />
+  <img src="assests/img1 (2).jpg" alt="Luis Felipe Banner" width="60%" />
 </div>
 
 <!-- INTRODUCTION -->
